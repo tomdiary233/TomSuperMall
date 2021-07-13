@@ -1,0 +1,2 @@
+<!-- <button id="button" type="primary" plain bindtap="handleGetUserInfo">登入</button> -->
+<button id="button" type="primary" plain bindtap="getUserProfile">登录</button>
